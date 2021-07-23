@@ -1,3 +1,4 @@
 hello group:
 this is the group text file update for creating the branch Xiaolan
+Bernard added this part
 
