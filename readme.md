@@ -1,6 +1,7 @@
 
 # Lab #3: Develop Code Repository and Push Commits 
 
+Xiaolan  xiaolancara@gmail.com
 
 **Points: 10**  
 **Assignment Type: Group submissions**
